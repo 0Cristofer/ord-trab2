@@ -29,3 +29,4 @@ void findNewRange(bucket_t *bucket, int* new_start, int* new_end);
 void insBucket(bucket_t** bucket, int start, int end);
 void printDiretorio();
 void printBucket(bucket_t* bucket);
+int getId();
